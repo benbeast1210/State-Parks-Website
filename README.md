@@ -1,3 +1,15 @@
+# State Parks Website
+
+This site uses the structure of an MIT Licensed example, with backend funcitonality I've written. Currently, it is not working correctly. Below is a list of tasks to be completed.
+
+TODO:
+ - fleshed out user-interaction with custom backend support
+ - create account creation/management pages & link to backend
+ - implement dynamic search box in the HTML 
+
+> Below is the original README text included with the licensed MIT files. Inconsequential to the final version of this project.
+
+# MIT README 
 # National Parks
 
 _Starter project for Front End Web Development JavaScript and the DOM module_
@@ -44,4 +56,4 @@ The initial application should look like the following screenshots:
 
 ## License
 
-This code is [MIT Licensed](LICENSE)
+Part of this code is [MIT Licensed](LICENSE)
